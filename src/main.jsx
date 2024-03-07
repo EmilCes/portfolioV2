@@ -12,12 +12,12 @@ import Technologies from './components/Technologies/Technologies';
 const projects = [
   {
     title: 'Timbiriche "The Game"',
-    image: 'src/assets/project_fms.png',
+    image: './project_fms.png',
     url: 'https://github.com/EduardoGarciaDiaz/Timbiriche-The-Game'
   },
   {
     title: 'Financial Management System',
-    image: 'src/assets/project_timbiriche.png',
+    image: './project_timbiriche.png',
     url: 'https://github.com/EmilCes/FinancialManagementSystem'
   },
   /*{
