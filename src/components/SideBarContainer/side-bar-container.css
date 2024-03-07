@@ -1,0 +1,6 @@
+.sidebar-container {
+    flex: 1;
+    flex-direction: column;
+    height: 100%;
+    max-width: 27%;
+  }
